@@ -1,0 +1,12 @@
+1. Classes and Objects
+2. Class has data/attributes and functions/Methods
+  >Code Walkthrough
+  >attrobites got called itself, methods are called manually
+3. Why python is Object Oriented Programming? -> Everything in python is an Object
+(data structure, data type, etc)
+4. Advantage of OOPS
+  > You can create your own datatype.
+  >code reusability
+  >debugging
+  >easy to colab
+
