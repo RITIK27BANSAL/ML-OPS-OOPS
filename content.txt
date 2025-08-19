@@ -10,3 +10,9 @@
   >debugging
   >easy to colab
 
+5. End to end project (Chatbook class)
+ >Encapsulation
+ >getter and setter
+ >static method 
+
+
