@@ -11,6 +11,7 @@
   >easy to colab
 
 5. End to end project (Chatbook class)
+ >function vs method
  >Encapsulation
  >getter and setter
  >static method 
